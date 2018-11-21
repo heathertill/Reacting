@@ -1,5 +1,5 @@
 import React, { Component} from 'react';
-import '../bootstrap.css'
+
 
 // #1-3
 // const App = (props) => {
